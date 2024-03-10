@@ -1,4 +1,4 @@
-# U.A.G.R.M.-Programacion_Grafica
+# F.I.C.C.T.-Proyecto_II-Roblox-SA-INF102
 
 U.A.G.R.M. | Materia: Programacion Grafica | Proyecto: Roblox | Docente: Miguel Jesus Peinado | Repositorio: Avance 1_2024 | Lenguaje: Lua | IDE: Roblox Studio
 
